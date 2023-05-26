@@ -1,6 +1,9 @@
 # codehs
 
 # UNIT 3
+3.1.3: Respond: What is Software
+> > ANSWER: I already knew that computers process information and perform tasks. I was surprised to learn that programming languages are like specialized tools for specific problems. I want to learn more about the compilation process. One question I have is: What are other programming languages and their unique characteristics?
+
 
 
 ----------------------
