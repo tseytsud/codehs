@@ -148,6 +148,7 @@ for exponent in range(20):
 ```
 
 **4.8.2 For Loop Examples Quiz**
+
 Question: 1
 > Why do we use constant variables?
 > > ANSWER: All of the above
@@ -195,9 +196,10 @@ for i in range(1, 7):
 ```
 
 *4.9.2 Random Numbers Quiz**
+
 Question: 1
 > Which of the following returns a random number between 1 and 10?
-> > ``` random.randint(1,10) ```
+> > ANSWER:``` random.randint(1,10) ```
 
 
 Question: 2
@@ -239,6 +241,7 @@ add(rect)
 ```
 
 **4.10.2 While Loops Quiz**
+
 Question: 1
 > How many times will this program print "hello"?
 ```
@@ -246,7 +249,7 @@ i = 50
 while i < 100:
     print("hello")
 ```
-<sub> PYTHON </sub>
+<sub> (PYTHON) </sub>
 > > ANSWER: This code will loop infinitely
 
 Question: 2
