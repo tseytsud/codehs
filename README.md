@@ -35,6 +35,76 @@ Not Innovations:
 3.3.2 Hello World Quiz
 <img width="748" alt="Screen Shot 2023-05-26 at 5 34 09 PM" src="https://github.com/tseytsud/codehs/assets/134737493/3360d2cd-37d5-4796-a48d-0db7622a1f80">
 
+3.3.4 Your Name and Hobby
+```
+# This program should print out your 
+# name, and a hobby you have
+
+# Sample output:
+#
+# My name is Jeremy
+# I like to juggle
+#
+
+print("My name is Jeremy")
+print("I like to juggle")
+```
+
+3.4.2 Variables Quiz
+<img width="748" alt="Screen Shot 2023-05-26 at 5 36 11 PM" src="https://github.com/tseytsud/codehs/assets/134737493/cbd54ecc-351d-494d-86a7-a33d5a589dac">
+
+3.4.4 String Operators Quiz
+<img width="748" alt="Screen Shot 2023-05-26 at 5 37 15 PM" src="https://github.com/tseytsud/codehs/assets/134737493/c81ad24e-e287-4b8f-86fb-050e21e66a42">
+
+3.4.6: Apples and Oranges
+```
+# Enter your code here
+
+num_apples = 20
+num_oranges = 15
+
+print("Number of apples: " + str(num_apples))
+print("Number of oranges: " + str(num_oranges))
+
+
+num_oranges = 0
+
+print("Number of apples: " + str(num_apples))
+print("Number of oranges: " + str(num_oranges))
+```
+
+3.4.7 AP Practice: Variables
+<img width="748" alt="Screen Shot 2023-05-26 at 5 38 28 PM" src="https://github.com/tseytsud/codehs/assets/134737493/6a217889-711e-43be-9e14-266c18c9f7b5">
+
+3.5.2 User Input Quiz
+<img width="748" alt="Screen Shot 2023-05-26 at 5 39 06 PM" src="https://github.com/tseytsud/codehs/assets/134737493/1ced0d67-3f49-4d74-946c-f448b680b1c6">
+
+3.5.4 Obi-Wan Says
+```
+# Place your code here
+name = input("What is your name?")
+#print(name)
+droid= int(input("How many droids would you like to meet?"))
+#print(str(droid))
+wookiee= int(input("How many wookies would you like to meet?"))
+#print(str(wookiee))
+print(name + " wants to meet " + str(droid) + " droids and " + str(wookiee) + " Wookiees.")
+
+#Sean wants to meet 3 droids and 2 Wookiees.
+```
+
+3.5.5 AP Practice: User Input
+Question 3:
+<img width="748" alt="Screen Shot 2023-05-26 at 5 40 48 PM" src="https://github.com/tseytsud/codehs/assets/134737493/86d1c02b-cc97-4f6f-9538-a8531bf61629">
+
+Question 2:
+<img width="748" alt="Screen Shot 2023-05-26 at 5 40 42 PM" src="https://github.com/tseytsud/codehs/assets/134737493/2d7f21fb-a908-48e4-9eb2-f290daeb72f8">
+
+Question 1:
+<img width="748" alt="Screen Shot 2023-05-26 at 5 40 34 PM" src="https://github.com/tseytsud/codehs/assets/134737493/4aed900d-539f-42ce-b444-4f70e33eecde">
+
+
+
 
 ----------------------
 # UNIT 4
