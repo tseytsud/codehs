@@ -6,7 +6,7 @@
 ----------------------
 # UNIT 4
 
-**4.6.2 For Loops Quiz**
+## **4.6.2 For Loops Quiz**
 
 Question: 1
 > How many times will the following program print "hello"
@@ -16,14 +16,14 @@ Question: 2
 > In the following code, what will be the last number to print to the screen before the program finishes?
 > > ANSWER: 18
 
-**4.6.4 Meme Text Generator**
+## **4.6.4 Meme Text Generator**
 ```
 # Enter your code here
 for i in range(50):
     print("Takes one political science class. Knows how to solve the world's problems.")
 ```
 
-**4.6.5 The Worm**
+## **4.6.5 The Worm**
 ```
 NUM_CIRCLES = 15
 
@@ -70,7 +70,7 @@ for i in range(NUM_CIRCLES):
 show()
 ```
 
-**4.6.6 Caterpillar**
+## **4.6.6 Caterpillar**
 ```
 NUM_CIRCLES = 15
 
@@ -117,7 +117,7 @@ for i in range(NUM_CIRCLES):
 show()
 ```
 
-**4.7.2 General For Loop Quiz**
+## **4.7.2 General For Loop Quiz**
 
 Question: 1
 > How many times will the following code print "hello"?
@@ -127,7 +127,7 @@ for i in range(3, 8):
 ```
 > > ANSWER: 5
 
-**4.7.5 Count By Sevens**
+## **4.7.5 Count By Sevens**
 
 ```
 # Enter your code here
@@ -136,7 +136,7 @@ for i in range(0, 501, 7):
 
 ```
 
-**4.7.6 Powers of Two**
+## **4.7.6 Powers of Two**
 ```
 # Enter your code here
 for exponent in range(20):
@@ -147,7 +147,7 @@ for exponent in range(20):
 
 ```
 
-**4.8.2 For Loop Examples Quiz**
+## **4.8.2 For Loop Examples Quiz**
 
 Question: 1
 > Why do we use constant variables?
@@ -157,7 +157,7 @@ Question: 2
 > What will be the value of sum after this code runs?
 > > ANSWER: 10
 
-**4.8.3 Better Sum**
+## **4.8.3 Better Sum**
 ```
 # Enter your code here
 first_num = int(input("Enter the first number: "))
@@ -172,7 +172,7 @@ print("The sum of numbers from", first_num, "to", second_num, "is", sum_of_numbe
 
 ```
 
-**4.8.5 Factorial**
+## **4.8.5 Factorial**
 ```
 # Enter your code here
 num = int(input("Enter a number: "))
@@ -186,7 +186,7 @@ print(num, "! is", factorial)
 
 ```
 
-**4.8.6 All Dice Values**
+## **4.8.6 All Dice Values**
 ```
 # Put your code here
 for i in range(1, 7):
@@ -195,7 +195,7 @@ for i in range(1, 7):
 
 ```
 
-*4.9.2 Random Numbers Quiz**
+## **4.9.2 Random Numbers Quiz**
 
 Question: 1
 > Which of the following returns a random number between 1 and 10?
@@ -206,7 +206,7 @@ Question: 2
 > How many possible values can the following code return random.choice([1,5]) return?
 > > 2
 
-**4.9.5 Lots of Dice**
+## ** 4.9.5 Lots of Dice **
 ```
 import random
 
@@ -218,7 +218,7 @@ for i in range(100):
 
 ```
 
-**4.9.6 Random Color Square**
+## ** 4.9.6 Random Color Square **
 ```
 import random
 
@@ -240,7 +240,7 @@ add(rect)
 
 ```
 
-**4.10.2 While Loops Quiz**
+## **4.10.2 While Loops Quiz**
 
 Question: 1
 > How many times will this program print "hello"?
@@ -262,7 +262,7 @@ while i > 0:
 ```
 > > ANSWER: 10
 
-**4.10.4 Inventory**
+## **4.10.4 Inventory**
 ```
 STARTING_ITEMS_IN_INVENTORY = 20
 
@@ -285,7 +285,7 @@ while inventory > 0:
 
 ```
 
-**4.10.5 Fibonacci**
+## **4.10.5 Fibonacci**
 ```
 MAX = 1000  # Define the maximum number
 
@@ -306,7 +306,7 @@ while True:
 
 ```
 
-**4.10.6 AP Practice: Iteration**
+## **4.10.6 AP Practice: Iteration**
 
 Question: 1
 > The AP Exam does not use for loops and while loops, but rather REPEAT or REPEAT UNTIL commands as shown below.
@@ -479,7 +479,7 @@ Question: 2
 > Which Python keyword skips back to the beginning of a loop?
 > > ANSWER: Continue
 
-**4.11.4 Snake Eyes**
+## **4.11.4 Snake Eyes**
 ```
 import random
 
@@ -499,7 +499,7 @@ while True:
 
 ```
 
-**4.11.5 Better Password Prompt**
+## **4.11.5 Better Password Prompt**
 ```
 SECRET = "abc123"
 
@@ -514,7 +514,7 @@ while True:
 
 ```
 
-**4.12.1 Python Control Structures Quiz**
+## **4.12.1 Python Control Structures Quiz**
 
 
 
