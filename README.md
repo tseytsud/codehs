@@ -4,6 +4,36 @@
 3.1.3: Respond: What is Software
 > > ANSWER: I already knew that computers process information and perform tasks. I was surprised to learn that programming languages are like specialized tools for specific problems. I want to learn more about the compilation process. One question I have is: What are other programming languages and their unique characteristics?
 
+3.2.3: Reflection: Learning to …
+> > ANSWER: Learning to program is valuable because it enhances problem-solving skills and critical thinking. One thing I want to achieve is to use programming to make survival easier and help those in need. By learning to program, I can create solutions and technologies that address specific challenges and improve people's lives.
+
+3.2.4: Reflection: Programs in …
+> > I love my computer because it allows me to work quickly and efficiently. However, I occasionally encounter minor issues that hinder my progress. Recently, I experienced software problems that required a lengthy software update.
+
+3.2.5: Reflection: Future Progr…
+> > 50 years ago, people did homework using traditional methods like pen and paper. Today, homework is done using computers, interactive boards, and printed materials, influenced by computer programs. In 20 years, homework may evolve with technology playing a bigger role, offering personalized experiences. Computer programs will be crucial, providing interactive learning, automation, and personalized assistance.
+
+3.2.6: Task: Computing Innovati…
+```
+Definition: Innovations are creations facilitated by computers or involving computing processes.
+
+Innovations:
+1. Phones: Devices with computing capabilities enabling internet access, running applications, and performing various tasks.
+2. Voice Assistants: Virtual assistants like Alexa that respond to voice commands, perform tasks, and control smart home devices using natural language processing and machine learning.
+3. Cloud Computing: Remote access to shared computing resources without local infrastructure requirements.
+4. Self-driving Cars: Vehicles utilizing sensors, machine learning, and algorithms to operate without human input.
+5. 3D Printing: Layered addition of plastic based on digital designs.
+
+Not Innovations:
+1. Pencil: Traditional writing instrument predating computers, used for manual writing or drawing.
+2. Bicycle: Mechanical transportation device powered by humans, unrelated to computing.
+3. Fridge: Appliance employing mechanical and electrical systems for cooling and preserving food, not associated with computing.
+4. TV: Electronic device displaying visual content; while modern smart TVs incorporate computing features, the invention itself is not computing-related.
+5. Microwave: Kitchen appliance using microwave radiation for heating or cooking food, based on physics and electrical engineering rather than computing.
+```
+
+3.3.2 Hello World Quiz
+<img width="748" alt="Screen Shot 2023-05-26 at 5 34 09 PM" src="https://github.com/tseytsud/codehs/assets/134737493/3360d2cd-37d5-4796-a48d-0db7622a1f80">
 
 
 ----------------------
