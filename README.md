@@ -790,68 +790,59 @@ can_vote = age >= 18 and is_citizen
 ```
 > > False
 
-Question 7:
+### Question 7:
 <img width="748" alt="7" src="https://github.com/tseytsud/codehs/assets/134737493/e679bf6c-bf30-470e-bacb-0cba51ecdabf">
 
-Question 8:
+### Question 8:
 <img width="748" alt="8" src="https://github.com/tseytsud/codehs/assets/134737493/1552fcac-d3ef-472b-aef3-1d73a94ade60">
 
 
-Question 9:
+### Question 9:
 <img width="748" alt="9" src="https://github.com/tseytsud/codehs/assets/134737493/cf937c89-c29d-4777-9703-509c11a3cb69">
 
 
-Question 10:
+### Question 10:
 <img width="748" alt="10" src="https://github.com/tseytsud/codehs/assets/134737493/21ec73c9-5770-4cdf-a5d9-62a71a3cdb21">
 
 
-Question 11:
+### Question 11:
 <img width="748" alt="11" src="https://github.com/tseytsud/codehs/assets/134737493/1f539bfa-ed1a-4578-b71a-3f8e79b74c7a">
 
 
-Question 12:
+### Question 12:
 <img width="748" alt="12" src="https://github.com/tseytsud/codehs/assets/134737493/906fd501-fe5f-4cca-a53c-243687505020">
 
-
-Question 13 and 14:
+### Question 13 and 14:
 <img width="748" alt="13 + 14" src="https://github.com/tseytsud/codehs/assets/134737493/ebc38454-25d7-44d6-8747-0aa69b78f5f1">
 
-
-Question 15:
+### Question 15:
 <img width="748" alt="15" src="https://github.com/tseytsud/codehs/assets/134737493/2ed173b4-f136-4344-ab70-60912262669e">
 
-
-Question 16:
+### Question 16:
 <img width="748" alt="16" src="https://github.com/tseytsud/codehs/assets/134737493/019abbd9-2856-45a5-b61a-75badf969a46">
 
-
-Question 17:
+### Question 17:
 <img width="748" alt="17" src="https://github.com/tseytsud/codehs/assets/134737493/614bef45-5ac9-4f08-9d61-de9a46f6ab78">
 
-
-Question 18:
+### Question 18:
 <img width="748" alt="18" src="https://github.com/tseytsud/codehs/assets/134737493/4b8dbcc4-ae41-4923-9a9c-84e0fee818f2">
 
-
-Question 19 and 20:
+### Question 19 and 20:
 <img width="748" alt="19 + 20" src="https://github.com/tseytsud/codehs/assets/134737493/ea2f9818-9d80-4d3a-9a2a-88bd08885c80">
 
-
-Question 21:
+### Question 21:
 <img width="748" alt="21" src="https://github.com/tseytsud/codehs/assets/134737493/ec25bea2-b815-4d3f-baba-6081ad8aef6b">
 
-
-Question 22:
+### Question 22:
 <img width="748" alt="22" src="https://github.com/tseytsud/codehs/assets/134737493/10164242-69e4-4593-8c12-2ec464ad6f5b">
 
-
-Question 23:
+### Question 23:
 <img width="748" alt="23" src="https://github.com/tseytsud/codehs/assets/134737493/5d603991-c688-4aa4-b5a1-4759f2a4e44a">
 
-Question 24:
+### Question 24:
 <img width="748" alt="24" src="https://github.com/tseytsud/codehs/assets/134737493/1874a4a7-d7a7-497f-a4f8-69682da418fd">
 
-Question 25:
+### Question 25:
 <img width="748" alt="25" src="https://github.com/tseytsud/codehs/assets/134737493/81d77585-8735-4890-8b65-027531e7dfd7">
 
 
