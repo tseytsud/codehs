@@ -516,6 +516,50 @@ while True:
 
 ## **4.12.1 Python Control Structures Quiz**
 
+Question: 1
+> What is the last thing printed by the following program?
+```
+start = 30
+stop = 10
+for  i in range(start,  stop - 1, -5):
+    if i % 2 == 0:
+        print(i * 2)
+    else:
+        print(i)
+```
+> > 20
+
+Question: 2
+> We want to simulate constantly flipping a coin until we get 3 heads in a row. What kind of loop should we use?
+> > While loop
+
+Question: 3
+> How many times will the following program print "hello"?
+> > Infinite Loop
+
+Question: 4
+> The following code continually asks the user for a password until they guess the correct password, then ends. But there is one problem.
+> Which of the following will fix this program?
+> > Add a 'break;' statement after line 6 so that the program doesn’t loop infinitely
+
+Question: 5
+> What will the following program print when run?
+> > ANSWER: (below)
+```
+6
+5
+6
+5
+```
+
+Question: 6
+> What is the value of the boolean variable can_vote at the end of this program?
+```
+age = 17
+is_citizen = True
+can_vote = age >= 18 and is_citizen
+```
+> > False
 
 
 
