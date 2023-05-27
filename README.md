@@ -408,8 +408,27 @@ Question 2:
 > > ANSWER: Better late than never.
 
 
+Question: 3
+> A summer camp offers a morning session and an afternoon session. The list morningList contains the names of all children attending the morning session, and the list afternoonList contains the names of all children attending the afternoon session.
 
+> Only children who attend both sessions eat lunch at the camp. The camp director wants to create lunchList, which will contain the names of children attending both sessions.
 
+> The following code segment is intended to create lunchList, which is initially empty. It uses the procedure IsFound (list, name), which returns true if name is found in list and returns false otherwise. You also will you the APPEND(list, name) procedure which will add a name to a given list.
+
+```
+FOR EACH child IN morningList
+{
+    <MISSING CODE>
+}
+```
+> Which of the following could replace <MISSING CODE> so that the code segment works as intended?
+> > ANSWER (below)
+```
+IF (IsFound (afternoonList, child))
+{
+    APPEND (lunchList, child)
+}
+```
 
 
 ## **4.6.2 For Loops Quiz**
