@@ -330,13 +330,13 @@ Question 2:
 
 > > ANSWER: false
 
-> Question 3 and 4:
+### Question 3 and 4:
 <img width="748" alt="Screen Shot 2023-05-26 at 9 41 03 PM" src="https://github.com/tseytsud/codehs/assets/134737493/6f898e61-b744-4729-adb3-ec3eab3b8a66">
 
 
 ## **4.4.2 If Statements Quiz**
 Question: 1
-Assume you are writing a program, and you have a boolean variable called b, defined like so: 
+> Assume you are writing a program, and you have a boolean variable called b, defined like so: 
 `b = True`
 > Pick the correct if statement to follow the code above. The if statement should be correct Python, and the body of the if statement should only run if b is True.
 > > ANSWER (below)
@@ -401,9 +401,9 @@ IF (( NOT rainy) AND (NOT tooCold))
 ```
 
 Question 2:
-Consider the code segment below.
+> Consider the code segment below.
 (image)
-If the variables onTime and absent both have the value false, what is displayed as a result of running the code segment?
+> If the variables onTime and absent both have the value false, what is displayed as a result of running the code segment?
 
 > > ANSWER: Better late than never.
 
