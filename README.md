@@ -237,7 +237,7 @@ add_mouse_click_handler(draw_rectangle)
 
 ## **4.1.2 Booleans Quiz**
 > Which of the following is not a valid value for a boolean?
-> > yes
+> > ANSWER: yes
 
 ## **4.1.4 Do You Have a Cat?**
 ```
