@@ -1,6 +1,6 @@
 #Welcome
 
-#[Unit 3](codehs/Unit 3.md)
+#Unit 3 - [LINK](codehs/Unit 3.md)
 - **3.1.3: Respond: What is Software**
 - **3.2.3: Reflection: Learning to …**
 - **3.2.4: Reflection: Programs in …**
@@ -27,7 +27,7 @@
 - **3.8.5 Click for Rectangles**
 - **3.9.1 Programming with Python Quiz**
 
-#[Unit 4](codehs/Unit 4.md)
+#Unit 4 - [LINK](codehs/Unit 4.md)
 
 - **4.1.2 Booleans Quiz**
 - **4.1.4 Do You Have a Cat?**
