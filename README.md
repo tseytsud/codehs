@@ -1,6 +1,6 @@
 # Welcome
 
-# Unit 3 - [LINK](codehs/Unit 3.md)
+# Unit 3 - [LINK](./Unit 3.md)
 - **3.1.3: Respond: What is Software**
 - **3.2.3: Reflection: Learning to …**
 - **3.2.4: Reflection: Programs in …**
