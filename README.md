@@ -235,6 +235,183 @@ add_mouse_click_handler(draw_rectangle)
 ----------------------
 # UNIT 4
 
+## **4.1.2 Booleans Quiz**
+> Which of the following is not a valid value for a boolean?
+> > yes
+
+## **4.1.4 Do You Have a Cat?**
+```
+#
+This program should declare a boolean that describes whether or
+not you have a cat. Then you should print out an informative
+message to the user.
+
+#
+has_cat = False
+print("User has cat?: " + str(has_cat))
+```
+
+## **4.2.2 Logical Operators Quiz**
+> Question 1 and 2:
+<img width="748" alt="Screen Shot 2023-05-26 at 9 33 17 PM" src="https://github.com/tseytsud/codehs/assets/134737493/d74e98d9-5c01-416c-9107-d36c444779a9">
+
+> Question 3:
+<img width="748" alt="Screen Shot 2023-05-26 at 9 33 17 PM" src="https://github.com/tseytsud/codehs/assets/134737493/fbf6a82f-6e02-432f-a86b-c1dbc9022da2">
+
+## **4.2.6 Can You Graduate?**
+```
+# Enter your code here
+has_enough_units = True
+has_met_requirements = True
+can_graduate = has_enough_units and has_met_requirements
+print("Can you graduate? " + str(can_graduate))
+```
+
+## **4.2.7 School's Out**
+```
+# Enter your code here
+#is_weekday = 'true'
+#is_holiday = 'true'
+#no_school_today = is_weekday and is_holiday 
+
+#print("There is no school today: " + str(not no_school_today))
+
+is_weekday = int(input("Is it a weekday?"))
+is_weekday = not is_weekday
+is_holiday = int(input("Is it a holiday?"))
+
+no_school_today = is_weekday or is_holiday
+print("There is no school today: " + str(no_school_today))
+```
+
+## **4.3.2 Comparison Operators Quiz**
+<img width="748" alt="Screen Shot 2023-05-26 at 9 37 06 PM" src="https://github.com/tseytsud/codehs/assets/134737493/25f6d0d2-de51-47d8-a63f-2a1ebd8d4b15">
+
+## **4.3.5 Rolling Dice**
+```
+# Enter your code here
+firstdie = int(input("First die?"))
+seconddie = int(input("Second die?"))
+rolled_doubles = firstdie == seconddie
+print("First Die? " + str(firstdie))
+print("Second Die? " + str(seconddie))
+print("Rolled doubles? " + str(rolled_doubles))
+```
+
+## **4.3.6 All Star**
+```
+ppg = int(input("Points per game?"))
+rpg = int(input("Rebounds per game?"))
+apg = int(input("Assists per game?"))
+allstar = 25 <= ppg or 10 <= ppg and 10 <= rpg and 10 <= apg
+print("Points per game? " + str(ppg))
+print("Rebounds per game? " + str(rpg))
+print("Assists per game? " + str(apg))
+print("Is all star? " + str(allstar))
+```
+
+## **4.3.7 AP Practice: Comparison Operators**
+
+Question 1:
+> The AP Exam uses the following relational (comparison) operators: =, ≠, >, <, ≥, and ≤.
+> As well, AND, OR and NOT are used instead of and, or and not.
+
+> A comparison using a relational operator evaluates to a Boolean value. For example, a = b evaluates to true if a and b are equal; otherwise, it evaluates to false.
+
+> Determine whether the following expression would evaluate to true or false.
+
+``` 7 = 6 OR 8 ≥ 4 ```
+> > ANSWER: true
+
+Question 2:
+> Determine whether the following expression would evaluate to true or false.
+
+```(9 ≠ 13 AND 12 < 4) OR 15 < 9```
+
+> > ANSWER: false
+
+> Question 3 and 4:
+<img width="748" alt="Screen Shot 2023-05-26 at 9 41 03 PM" src="https://github.com/tseytsud/codehs/assets/134737493/6f898e61-b744-4729-adb3-ec3eab3b8a66">
+
+
+## **4.4.2 If Statements Quiz**
+Question: 1
+Assume you are writing a program, and you have a boolean variable called b, defined like so: 
+`b = True`
+> Pick the correct if statement to follow the code above. The if statement should be correct Python, and the body of the if statement should only run if b is True.
+> > ANSWER (below)
+```
+if b:
+    print("b is True!")
+```
+
+Question: 2
+> Which of the following programs will not print anything?
+> > ANSWER (below)
+
+```
+if False:
+    print("hi")
+```
+
+## **4.4.7 Teenagers**
+```
+# Enter your code here
+
+age = int(input("What is your age?"))
+TOF = age >= 13 and age <= 19
+if TOF == True:
+    print("Yes, you are a teenager.")
+else:
+    print("No, you are not a teenager")
+```
+
+## **4.4.8 Meal Planner**
+
+```
+# Enter your code here
+req = int(input("What Meal?"))
+
+if req == "breakfast":
+    print("Cereal")
+elif req == "lunch"
+    print("Hot Dogs")
+elif req == "dinner"
+    print("Lasganga")
+```
+## **4.4.9 AP Practice: If/Else Statements**
+
+Question 1:
+> In the following code block, assume that the variables `rainy` and `tooCold` are boolean.
+
+```
+IF (NOT (rainy OR tooCold))
+{
+    DISPLAY("It's a good beach day")
+}
+Which of the following are equivalent to the above code block?
+```
+
+> > ANSWER below
+```
+IF (( NOT rainy) AND (NOT tooCold))
+{
+    DISPLAY("It's a good beach day")
+}
+```
+
+Question 2:
+Consider the code segment below.
+(image)
+If the variables onTime and absent both have the value false, what is displayed as a result of running the code segment?
+
+> > ANSWER: Better late than never.
+
+
+
+
+
+
 ## **4.6.2 For Loops Quiz**
 
 Question: 1
