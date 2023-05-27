@@ -429,7 +429,52 @@ IF (IsFound (afternoonList, child))
     APPEND (lunchList, child)
 }
 ```
+    
+Question: 4
+> An office building has two floors. A computer program is used to control an elevator that travels between the two floors. Physical sensors are used to set the following Boolean variables.
 
+> The elevator moves when the door is closed and the elevator is called to the floor that it is not currently on. Which of the following Boolean expressions can be used in a selection statement to cause the elevator to move.
+
+> > ANSWER (below)
+``` (onFloor1 AND callTo2) OR (onFloor2 AND callTo1) ```
+
+## **4.5.2 Key Events Quiz**
+
+Question: 1
+> We’ve written a function animate that moves a ball across the screen like this:
+```
+def animate(event):
+    ball.move(5, 5)
+```
+> How can we set up animate to be called every time a key on the keyboard is pressed down?
+> > Answer: `add_key_down_handler(animate)`
+    
+## **4.5.4 Growing Circle**
+```
+# Start coding here. Don't forget to click the canvas
+# before you try to use the arrow keys!
+radius = 100
+circle = Circle(radius)
+
+def key_down(event):
+    global radius
+    
+    if event.key == "ArrowLeft":
+        radius -= 10
+        if radius < 10:
+            radius = 10
+        circle.set_radius(radius)
+
+    if event.key == "ArrowRight":
+        radius += 10
+        if radius > 400:
+            radius = 400
+        circle.set_radius(radius)
+
+circle.set_position(250, 250)
+add(circle)
+add_key_down_handler(key_down)
+```
 
 ## **4.6.2 For Loops Quiz**
 
