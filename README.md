@@ -1,6 +1,7 @@
 # Welcome
 
-# NEW [Unit 15](https://github.com/tseytsud/codehs/blob/main/Unit%203.md#unit-15)
+# NEW [Unit 15](https://github.com/tseytsud/codehs/blob/main/Unit%2015.md#unit-15)
+- **15.1.2: Selecting Computing Inno…**
 
 # [Unit 3](https://github.com/tseytsud/codehs/blob/main/Unit%203.md#unit-3)
 - **3.1.3: Respond: What is Software**
